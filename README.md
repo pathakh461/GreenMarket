@@ -21,9 +21,10 @@ Category and Product Creation: Managers can create new categories and add produc
 
 Installation
 
-Clone the repository to your local machine:
+Clone the repository to your local machine through github :
 
 git clone https://github.com/pathakvishal132/GreenMarket
+or you can open the zip file and go to code directory
 Navigate to the project directory:
 
 cd flask-ecommerce-app
