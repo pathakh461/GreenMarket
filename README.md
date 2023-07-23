@@ -41,7 +41,8 @@ cd code
 Run the application:
 
 python3 main.py
-Access the application in your web browser at http://localhost:5000/.
+Access the application in your web browser at http://localhost:2345/.
+
 Usage
 
 Visit the homepage to browse products and add them to your cart.
